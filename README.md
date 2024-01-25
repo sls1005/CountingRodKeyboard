@@ -6,7 +6,7 @@ This keyboard makes it harder (for someone else) to figure out what you're enter
 
 ## Screenshot
 
-![](./screenshots/screenshot1.jpg)
+![](./screenshots/screenshot1.png)
 
 ## Note
 
