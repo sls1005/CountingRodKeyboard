@@ -27,6 +27,10 @@
             android:exported="false"
             android:theme="@style/Theme.CountingRodKeyboard">
         </activity>
+        <activity android:name="com.google.android.gms.oss.licenses.OssLicensesMenuActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"/>
+        <activity android:name="com.google.android.gms.oss.licenses.OssLicensesActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"/>
         <service android:name=".CountingRodKeyboard"
             android:label="Counting Rod Keyboard"
             android:icon="@mipmap/ic_launcher"
