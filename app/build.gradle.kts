@@ -12,8 +12,8 @@ android {
         applicationId = "test.com.github.www.sls1005.countingrodkeyboard"
         minSdk = 21
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.1"
+        versionCode = 3
+        versionName = "1.1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
