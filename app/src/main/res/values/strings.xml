@@ -2,7 +2,7 @@
     <string name="app_name">Counting Rod Keyboard</string>
     <string name="hints">Hints</string>
     <string name="hint1">1. After installing the app, you may need to enable the keyboard.</string>
-    <string name="hint2">2. Long-pressing on the “zero” key (“〇”) gives the menu for switching to another keyboard.</string>
+    <string name="hint2">2. Long-pressing the “zero” key (“〇”) gives the menu for switching to another keyboard.</string>
     <string name= "button1_text">Enable/disable keyboards</string>
     <string name="button2_text">Change keyboard</string>
     <string name="button3_text">Documentation</string>
